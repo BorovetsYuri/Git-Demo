@@ -15,14 +15,14 @@
 
 У **практичній роботі №1** було використано такі команди Git:
 
-- [x]git init
-- [x]git status
-- [x]git add
-- [x]git commit
-- [x]git remote add
-- [x]git push
-- [x]git pull
-- [ ]git branch
+[x]git init
+[x]git status
+[x]git add
+[x]git commit
+[x]git remote add
+[x]git push
+[x]git pull
+[ ]git branch
 
 ## Практична робота №2
 ### Основні завдання
@@ -41,5 +41,7 @@
   - списки з прапорців
 - гіперпосилання
 - картинки
+
 Документація з використання Git розміщена за [посиланням](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 Виконав: Боровець Юрій
